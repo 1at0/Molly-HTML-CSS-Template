@@ -227,7 +227,7 @@ a {
     }
 }
 
-.header.container ul li a {
+.header .container ul li a {
     padding: 0px 15px;
     min-width: 100%;
     font-size: 14px;
